@@ -1,4 +1,4 @@
-def print_list (grocery_list)
+def print_list(grocery_list)
   grocery_list.each { |item| puts "* #{item}" }
 end
 
